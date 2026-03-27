@@ -29,16 +29,10 @@ A modern, multilingual Next.js application for hot air balloon flight bookings i
 
 - Node.js 20.x or higher
 - npm or yarn
-- Backend API running (see [backend repo](https://github.com/imadev26/BackendSky))
+
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/imadev26/FrontendSky.git
-cd FrontendSky
-```
 
 ### 2. Install dependencies
 
