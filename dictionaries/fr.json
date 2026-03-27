@@ -1,0 +1,454 @@
+{
+    "navigation": {
+        "home": "ACCUEIL",
+        "about": "À propos",
+        "flights": "Vols",
+        "blog": "Blog",
+        "contact": "Contact",
+        "book_now": "Réserver"
+    },
+    "hero": {
+        "subtitle": "Envolez-vous dans le ciel de Marrakech",
+        "title": "Une Expérience Montgolfière Inoubliable à Marrakech",
+        "cta": "Voir Disponibilités",
+        "view_flights": "Voir Tous les Vols",
+        "reviews_count": "sur +1,200 avis",
+        "certified_pilots": "Pilotes Certifiés",
+        "free_cancellation": "Annulation Gratuite"
+    },
+    "trusted_by": {
+        "title": "Ils nous font confiance",
+        "subtitle": "Grâce à nos services primés, nous sommes recommandés par de nombreuses entreprises"
+    },
+    "flights_section": {
+        "subtitle": "DÉCOUVREZ LE MONDE D'EN HAUT",
+        "title": "Choisissez Votre Vol",
+        "view_all": "Voir Tous les Vols"
+    },
+    "flights_page": {
+        "title": "Nos Vols",
+        "subtitle": "Explorez le Ciel",
+        "filters": {
+            "title": "Filtrer",
+            "active_filters": "Filtres actifs",
+            "clear_all": "Tout effacer",
+            "reset_all": "Tout réinitialiser",
+            "search_placeholder": "Rechercher un vol...",
+            "price": "Prix",
+            "destinations": "Destinations",
+            "tour_type": "Type de vol",
+            "all_destinations": "Toutes destinations",
+            "all_types": "Tous les types"
+        },
+        "sort": {
+            "label": "Trier par :",
+            "title": "Titre",
+            "price_low": "Prix : Croissant",
+            "price_high": "Prix : Décroissant"
+        },
+        "results": {
+            "showing": "Affichage de",
+            "results_count": "résultats",
+            "no_flights": "Aucun vol trouvé",
+            "try_adjusting": "Essayez d'ajuster vos filtres pour voir plus de résultats",
+            "reset_filters": "Réinitialiser les filtres"
+        },
+        "help": {
+            "title": "Besoin d'aide ?",
+            "content": "Contactez-nous pour des recommandations personnalisées"
+        }
+    },
+    "flight_detail": {
+        "breadcrumbs": {
+            "home": "Accueil",
+            "flights": "Vols"
+        },
+        "labels": {
+            "licensed": "Opérateur Agréé",
+            "free_cancellation": "Annulation Gratuite",
+            "best_price": "Meilleur Prix Garanti",
+            "reviews": "Avis",
+            "overview": "Aperçu",
+            "included": "Ce qui est inclus",
+            "excluded": "Non Inclus",
+            "program": "Programme du Vol",
+            "suggestion": "SUGGESTIONS DE VOLS",
+            "book_now": "Réserver",
+            "price": "Prix",
+            "from": "À partir de",
+            "flight_in": "Vol à",
+            "weather_policy": "Politique Météo",
+            "popular": "Populaire",
+            "people": "Personnes",
+            "min_age": "Âge min.",
+            "key_features": "Points Clés",
+            "view_itinerary": "Voir l'itinéraire",
+            "guest_reviews": "Avis Clients",
+            "no_reviews": "Pas encore d'avis pour ce vol. Soyez le premier !"
+        },
+        "difficulty": {
+            "easy": "Facile",
+            "moderate": "Modéré",
+            "challenging": "Difficile"
+        },
+        "tags": {
+            "private": "PRIVÉ",
+            "royal": "ROYAL",
+            "classic": "CLASSIQUE"
+        }
+    },
+    "seo_section": {
+        "title": "L'Expérience Montgolfière Ultime",
+        "content": "Offrez-vous un baptême de l'air inoubliable avec Sky Experience. Plus qu'un simple vol, c'est une immersion totale dans la beauté du Maroc. Nos vols en montgolfière à Marrakech au lever du soleil vous offrent des panoramas à couper le souffle sur le désert, la Palmeraie et les montagnes de l'Atlas.\n\nQue vous cherchiez une escapade romantique, une aventure en famille ou un service VIP exclusif, nous vous garantissons l'expérience la plus sûre et authentique. Rejoignez-nous pour découvrir pourquoi le ciel de Marrakech est la plus belle destination au monde.",
+        "occasions_title": "Parfait pour toutes les occasions",
+        "occasions": [
+            "Demande en mariage",
+            "Anniversaire mémorable",
+            "Sortie en Famille",
+            "Événement d'entreprise"
+        ]
+    },
+    "footer": {
+        "description": "L'expérience montgolfière la plus authentique à Marrakech.",
+        "quick_links": "Liens Rapides",
+        "contact_us": "Contactez-nous",
+        "follow_us": "Suivez-nous",
+        "rights": "Tous droits réservés.",
+        "privacy": "Politique de confidentialité",
+        "terms": "Conditions d'utilisation",
+        "social_desc": "Restez informé de nos dernières offres et aventures dans le ciel.",
+        "nav": {
+            "home": "Accueil",
+            "flights": "Nos Vols",
+            "about": "À propos",
+            "book_now": "Réserver"
+        },
+        "labels": {
+            "address": "Adresse",
+            "email": "Email",
+            "phone": "Téléphone"
+        },
+        "address_value": "3ème Étage Bureau N° 16, Angle Bd Moulay Rachid, Marrakech 40000",
+        "email_value": "skyexperiencemarrakech@gmail.com",
+        "phone_value": "+212 751 622 180"
+    },
+    "booking": {
+        "title": "Réservez votre Aventure",
+        "subtitle": "Choisissez parmi nos offres exclusives et préparez-vous à décoller.",
+        "loading": "Chargement des vols...",
+        "error": "Impossible de charger les vols. Veuillez vérifier que le serveur backend est lancé.",
+        "no_flights": "Aucun vol disponible pour le moment.",
+        "currency": "MAD",
+        "book_button": "Réserver",
+        "classic": "Classique",
+        "rating": "4.9",
+        "experience": "Profitez d'une expérience inoubliable avec ce vol. Service premium et sécurité garantie.",
+        "dates_travelers": "Dates & Voyageurs",
+        "choose_date": "Choisissez une date",
+        "travelers_count": "Nombre de voyageurs",
+        "adults": "Adultes",
+        "age_info": "Age 12+",
+        "continue": "Continuer",
+        "your_details": "Vos Coordonnées",
+        "full_name": "Nom Complet",
+        "email": "Email",
+        "phone": "Téléphone (avec indicatif)",
+        "pickup": "Lieu de prise en charge (Hôtel/Riad)",
+        "back": "Retour",
+        "verify": "Vérifier",
+        "summary": "Récapitulatif",
+        "date": "Date",
+        "travelers": "Voyageurs",
+        "meeting_point": "Lieu de RDV",
+        "total_pay": "Total à payer",
+        "confirm": "Confirmer la réservation",
+        "processing": "Traitement...",
+        "success_title": "Réservation Confirmée !",
+        "success_msg": "Merci {name}. Votre vol a été réservé avec succès. Un email de confirmation a été envoyé à {email}.",
+        "return_home": "Retour à l'accueil",
+        "reservation_summary": "Votre Réservation",
+        "flight": "Vol",
+        "unit_price": "Prix unitaire",
+        "total": "Total",
+        "cancellation_policy": "Annulation gratuite jusqu'à 48h avant le vol. Paiement sur place disponible."
+    },
+    "about_section": {
+        "subtitle": "En savoir plus sur nous",
+        "title": "SKY EXPERIENCE",
+        "title_suffix": "Montgolfière Marrakech",
+        "content_1": "SKY EXPERIENCE est bien plus qu'une simple agence de montgolfière à Marrakech. C'est une promesse d'évasion. Nous transformons votre rêve de voler en réalité avec une sécurité absolue et un service haut de gamme. Nos vols au lever du soleil offrent une perspective unique sur le Désert Agafay, la Palmeraie et les majestueuses montagnes de l'Atlas.",
+        "content_2": "Composée de pilotes certifiés et passionnés, notre équipe cumule des décennies d'expérience dans l'aviation civile. Nous sommes reconnus comme l'un des meilleurs spécialistes du vol en ballon au Maroc, alliant tradition, modernité et respect strict des normes de sécurité internationales. Chaque vol est une célébration du ciel marocain.",
+        "content_3": "Grâce à une organisation rigoureuse, un matériel moderne et un encadrement qualifié, SKY EXPERIENCE offre à ses passagers toutes les garanties nécessaires pour vivre une aventure aérienne exceptionnelle. Que ce soit pour un vol classique, privé, VIP, une demande en mariage en montgolfière ou un anniversaire, chaque expérience est pensée sur mesure pour créer des souvenirs uniques dans le ciel de Marrakech.",
+        "cta": "Découvrir Notre Histoire"
+    },
+    "about_adventures": {
+        "title": "Vivez une aventure unique en montgolfière",
+        "subtitle": "Sky Experience Adventures",
+        "list": [
+            "Envolez-vous au-dessus de **Marrakech** et de ses paysages à couper le souffle.",
+            "Profitez de **vues inoubliables** sur les montagnes de l’Atlas et le désert.",
+            "Chaque détail a été soigneusement pensé pour votre confort."
+        ]
+    },
+    "about_safety": {
+        "title": "Sécurité et confort : nos priorités",
+        "subtitle": "La sécurité avant tout",
+        "list": [
+            "Chez Sky Experience, la **sécurité** est notre priorité absolue.",
+            "Nos **pilotes certifiés** et expérimentés vous accompagneront tout au long de l’aventure.",
+            "Nos montgolfières sont parfaitement entretenues, assurant à la fois sécurité et confort."
+        ]
+    },
+    "about_tailored": {
+        "title": "Un vol adapté à vos attentes",
+        "list": [
+            "Que vous choisissiez un **vol classique** ou **privé**, chaque expérience est soigneusement planifiée pour vous offrir une vue panoramique de Marrakech.",
+            "Chaque instant passé dans les airs vous invite à vous détendre et à apprécier la beauté spectaculaire du Maroc."
+        ]
+    },
+    "about_relax": {
+        "title": "Un moment de détente et d’émerveillement",
+        "content_1": "Un vol en montgolfière est une expérience rare et paisible, idéale pour se détendre et s’émerveiller.",
+        "content_2": "Montez à bord d’une montgolfière spacieuse et confortable et laissez-vous porter par la douce brise.",
+        "content_3": "Vivez la sérénité du vol tout en admirant les paysages en perpétuel changement sous vos yeux."
+    },
+    "about_landscape": {
+        "title": "Un voyage à travers les paysages marocains",
+        "content": "Laissez-vous captiver par la beauté des paysages marocains. Depuis les airs, vous profiterez de vues inégalées sur les vastes palmeraies de Marrakech, les **montagnes de l’Atlas** et les dunes du désert. Le lever du soleil offre des couleurs spectaculaires, idéales pour immortaliser des photos inoubliables."
+    },
+    "about_commitment": {
+        "title": "Nos engagements : une expérience sans souci",
+        "content": "De la réservation à l’atterrissage, nous avons tout pris en charge. Nous nous occupons de toute la logistique : transport VIP, accueil chaleureux, consignes de sécurité et souvenirs personnalisés. Tout ce que vous avez à faire, c’est profiter de l’expérience."
+    },
+    "why_choose": {
+        "subtitle": "Raisons Brillantes",
+        "title": "Pourquoi Nous Choisir",
+        "pricing": {
+            "title": "Prix Compétitifs",
+            "desc": "L'aventure ne doit pas nécessairement coûter cher"
+        },
+        "coverage": {
+            "title": "Couverture Mondiale",
+            "desc": "Où que vous rêviez de voler, nous vous y emmènerons"
+        },
+        "booking": {
+            "title": "Réservation Rapide",
+            "desc": "Réservez votre vol en quelques minutes et préparez-vous à décoller."
+        },
+        "guides": {
+            "title": "Visites Guidées",
+            "desc": "Nos pilotes experts vous guident en toute sécurité à travers les cieux."
+        }
+    },
+    "panoramic": {
+        "title": "Vues Panoramiques",
+        "subtitle": "Marrakech Vue du Ciel",
+        "desc": "Envolez-vous au-dessus de la ville rouge et au-delà dans nos montgolfières sûres et confortables. Chaque vol est un nouveau chef-d'œuvre peint par le ciel."
+    },
+    "testimonials": {
+        "title": "Témoignages Clients",
+        "subtitle": "Offrir les meilleurs services pour nos clients",
+        "items": [
+            {
+                "name": "Sarah J.",
+                "date": "Oct 2023",
+                "rating": 5,
+                "text": "Un incontournable absolu à Marrakech ! Les vues au lever du soleil étaient à couper le souffle, et le pilote nous a fait sentir en sécurité et divertis. Une expérience magique du début à la fin.",
+                "bgColor": "bg-purple-500"
+            },
+            {
+                "name": "Ahmed K.",
+                "date": "Nov 2023",
+                "rating": 5,
+                "text": "Superbe organisation. Le transfert était à l'heure, le petit déjeuner délicieux et le vol... juste incroyable. Merci à toute l'équipe Sky Experience.",
+                "bgColor": "bg-blue-500"
+            },
+            {
+                "name": "Emily & Tom",
+                "date": "Dec 2023",
+                "rating": 5,
+                "text": "Nous avons réservé un vol privé pour notre anniversaire et c'était la perfection. Romantique, paisible et incroyablement beau. Vaut chaque centime.",
+                "bgColor": "bg-pink-500"
+            }
+        ],
+        "view_more": "Voir plus"
+    },
+    "faq": {
+        "title": "Questions Fréquentes",
+        "subtitle": "Retrouvez ici les réponses aux questions les plus courantes pour préparer votre vol en toute sérénité.",
+        "items": [
+            {
+                "id": "1",
+                "number": "01",
+                "question": "À quelle heure décolle la montgolfière ? Et quand rentre-t-on ?",
+                "answer": "Tous les vols décollent au lever du soleil pour garantir une lumière magique. La prise en charge à Marrakech s'effectue généralement entre 4h00 et 5h00 en été et entre 5h00 et 6h00 en hiver. Vous serez de retour à votre hôtel entre 9h15 et 10h15."
+            },
+            {
+                "id": "2",
+                "number": "02",
+                "question": "D’où décolle la montgolfière ?",
+                "answer": "Nos sites d'envol sont situés à environ 30 à 45 minutes du centre de Marrakech, offrant une vue imprenable sur la Palmeraie et l'Atlas. Nous assurons le transfert aller-retour depuis votre hôtel ou riad."
+            },
+            {
+                "id": "3",
+                "number": "03",
+                "question": "Combien de temps dure l’expérience complète ?",
+                "answer": "L’aventure dure environ 4 heures au total. Cela inclut le transfert, la préparation du ballon, le vol (45 à 60 min), le petit-déjeuner traditionnel berbère sous tente et le retour."
+            },
+            {
+                "id": "4",
+                "number": "04",
+                "question": "Proposez-vous des tarifs pour les groupes ?",
+                "answer": "Absolument ! Nous proposons des tarifs préférentiels pour les groupes de 6 personnes ou plus. Contactez-nous via WhatsApp pour obtenir un devis personnalisé."
+            },
+            {
+                "id": "5",
+                "number": "05",
+                "question": "Que se passe-t-il en cas de mauvaises conditions météo ?",
+                "answer": "Votre sécurité est notre priorité absolue. Si le vol est annulé pour des raisons météorologiques, nous vous proposons de reporter l'expérience au lendemain ou de recevoir un remboursement intégral."
+            },
+            {
+                "id": "6",
+                "number": "06",
+                "question": "Est-il possible de personnaliser le vol pour un événement spécial ?",
+                "answer": "Oui ! Qu'il s'agisse d'une demande en mariage, d'un anniversaire ou d'un événement d'entreprise, nous proposons des vols privés sur mesure avec des options exclusives (bouquet de fleurs, banderoles personnalisées, gâteau) pour rendre ce moment inoubliable."
+            },
+            {
+                "id": "7",
+                "number": "07",
+                "question": "Les enfants peuvent-ils participer au vol ?",
+                "answer": "Oui, les enfants sont les bienvenus à partir de 4 ans. Les enfants âgés de 4 à 11 ans bénéficient d'un tarif réduit spécial."
+            },
+            {
+                "id": "8",
+                "number": "08",
+                "question": "Combien de passagers y a-t-il dans la nacelle ?",
+                "answer": "Pour nos vols classiques partagés, les nacelles accueillent entre 12 et 16 personnes avec des compartiments séparés pour votre confort. Si vous préférez plus d'intimité, nos Packs Privés et VIP vous garantissent une nacelle exclusivement réservée pour vous."
+            }
+        ]
+    },
+    "blog": {
+        "title": "Dernières Actualités",
+        "subtitle": "Idées, conseils et histoires du ciel",
+        "view_all": "Voir Plus d'Articles",
+        "read_more": "Lire l'Article"
+    },
+    "contact_section": {
+        "label": "Contactez-nous",
+        "title": "Contactez Sky Experience",
+        "subtitle": "Une question ou prêt à réserver ? Nous répondons en quelques heures. Notre équipe est là pour rendre votre vol en montgolfière à Marrakech inoubliable.",
+        "card_phone_title": "Téléphone & WhatsApp",
+        "card_email_title": "Email",
+        "card_location_title": "Localisation",
+        "card_location_value": "3ème Étage Bureau N° 16, Angle Bd Moulay Rachid, Marrakech",
+        "card_location_link": "Obtenir l'itinéraire",
+        "card_hours_title": "Heures d'Ouverture",
+        "card_hours_weekdays": "Lun – Sam : 6h00 – 20h00",
+        "card_hours_sunday": "Dimanche : 6h00 – 18h00",
+        "cta_box_title": "Vous préférez parler directement ?",
+        "cta_box_subtitle": "Notre équipe répond instantanément sur WhatsApp",
+        "full_contact_link": "Page Contact Complète",
+        "form_title": "Envoyez-nous un message",
+        "form_subtitle": "Nous vous répondrons dans les 2 à 4 heures",
+        "response_time": "Temps de réponse moyen : 2 à 4 heures",
+        "field_name": "Nom complet",
+        "field_email": "Adresse email",
+        "field_message": "Message",
+        "placeholder_name": "Votre nom complet",
+        "placeholder_email": "votre@email.com",
+        "placeholder_message": "Indiquez vos dates préférées, la taille de votre groupe ou toute question...",
+        "btn_send": "Envoyer le message",
+        "btn_sending": "Envoi en cours...",
+        "success_msg": "Message envoyé ! Nous vous répondrons dans les 24 heures.",
+        "form_note": "Pour plus d'options, visitez notre"
+    },
+    "contact_page": {
+        "header_title": "Entrer en Contact",
+        "header_subtitle": "Contactez-nous",
+        "card_contact_title": "Informations de Contact",
+        "card_social_title": "Restez Connecté",
+        "card_hours_title": "Heures d'Ouverture",
+        "label_address": "Adresse",
+        "address_line1": "3ème Étage Bureau N° 16, Angle Bd Moulay Rachid",
+        "address_line2": "Marrakech 40000, Maroc",
+        "hours_weekdays": "Lundi – Vendredi",
+        "hours_saturday": "Samedi",
+        "hours_sunday": "Dimanche",
+        "hours_value_weekdays": "6h00 – 20h00",
+        "hours_value_saturday": "6h00 – 20h00",
+        "hours_value_sunday": "6h00 – 18h00",
+        "map_title": "Notre Emplacement",
+        "map_subtitle": "Notre bureau est situé au cœur de Marrakech, Angle Bd Moulay Rachid. Venez nous rencontrer pour toute information.",
+        "get_directions": "Obtenir l'itinéraire",
+        "form_title": "Vous avez une question ?",
+        "form_subtitle": "Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.",
+        "response_time": "Temps de réponse moyen : 2 à 4 heures",
+        "field_name": "Nom complet",
+        "field_email": "Adresse email",
+        "field_phone": "Numéro de téléphone",
+        "field_subject": "Sujet",
+        "field_message": "Message",
+        "optional": "optionnel",
+        "placeholder_name": "Nom complet",
+        "placeholder_email": "contact@exemple.com",
+        "placeholder_phone": "+212 6XX-XXXXXX",
+        "placeholder_subject": "De quoi s'agit-il ?",
+        "placeholder_message": "Indiquez vos dates préférées, la taille de votre groupe ou toute question...",
+        "btn_send": "Envoyer le message",
+        "btn_sending": "Envoi en cours...",
+        "btn_clear": "Effacer le formulaire",
+        "success_title": "Message envoyé avec succès !",
+        "success_msg": "Nous vous répondrons dans les 24 heures.",
+        "error_title": "Erreur lors de l'envoi",
+        "error_retry": "Veuillez réessayer ou nous contacter directement.",
+        "error_name": "Le nom est requis",
+        "error_email_required": "L'email est requis",
+        "error_email_invalid": "Email invalide",
+        "error_subject": "Le sujet est requis",
+        "error_message": "Le message est requis",
+        "error_privacy": "Vous devez accepter la politique de confidentialité",
+        "privacy_accept": "J'accepte la",
+        "privacy_link": "politique de confidentialité",
+        "or_contact_directly": "Ou contactez-nous directement :",
+        "email_link": "Envoyez-nous un courriel"
+    },
+    "flight_card": {
+        "one_day": "1 Jour",
+        "min_2": "Min 2",
+        "max": "Max",
+        "explore": "Découvrir"
+    },
+    "search_bar": {
+        "search_title": "Trouvez votre vol",
+        "easy_booking": "Réservation facile",
+        "destinations": "Destinations",
+        "where_going": "Où souhaitez-vous aller ?",
+        "all_destinations": "Toutes les destinations",
+        "no_destinations": "Aucune destination disponible",
+        "activity": "Activité",
+        "all_activity": "Toutes les activités",
+        "select_destination_first": "Choisissez d'abord une destination",
+        "activities_in": "Activités à",
+        "no_activities_destination": "Aucune activité dans",
+        "when": "Quand",
+        "date_from": "Choisir une date",
+        "guests": "Voyageurs",
+        "adults": "Adultes",
+        "children": "Enfants",
+        "apply": "Appliquer",
+        "search": "Rechercher"
+    },
+    "booking_calendar": {
+        "check_availability": "Vérifier la disponibilité",
+        "contact": "Contact",
+        "weekdays": [
+            "Lun",
+            "Mar",
+            "Mer",
+            "Jeu",
+            "Ven",
+            "Sam",
+            "Dim"
+        ]
+    }
+}

@@ -1,0 +1,454 @@
+{
+    "navigation": {
+        "home": "HOME",
+        "about": "About us",
+        "flights": "Flights",
+        "blog": "Blog",
+        "contact": "Contact",
+        "book_now": "Book Now"
+    },
+    "hero": {
+        "subtitle": "Let's soar the skies of Marrakech",
+        "title": "Unforgettable Hot Air Balloon Experience Over Marrakech",
+        "cta": "Check Availability",
+        "view_flights": "View All Flights",
+        "reviews_count": "from 1,200+ reviews",
+        "certified_pilots": "Certified Pilots",
+        "free_cancellation": "Free Cancellation"
+    },
+    "trusted_by": {
+        "title": "Trusted by",
+        "subtitle": "With award winning services we are trusted by many companies"
+    },
+    "flights_section": {
+        "subtitle": "DISCOVER THE WORLD FROM ABOVE",
+        "title": "Choose Your Flight",
+        "view_all": "View All Flights"
+    },
+    "flights_page": {
+        "title": "Our Flights",
+        "subtitle": "Explore the Sky",
+        "filters": {
+            "title": "Filter",
+            "active_filters": "Active filters",
+            "clear_all": "Clear all",
+            "reset_all": "Reset All",
+            "search_placeholder": "Search flights...",
+            "price": "Price",
+            "destinations": "Destinations",
+            "tour_type": "Tour Type",
+            "all_destinations": "All Destinations",
+            "all_types": "All Types"
+        },
+        "sort": {
+            "label": "Sort by:",
+            "title": "Title",
+            "price_low": "Price: Low to High",
+            "price_high": "Price: High to Low"
+        },
+        "results": {
+            "showing": "Showing",
+            "results_count": "results",
+            "no_flights": "No Flights Found",
+            "try_adjusting": "Try adjusting your filters to see more results",
+            "reset_filters": "Reset Filters"
+        },
+        "help": {
+            "title": "Need Help?",
+            "content": "Contact us for personalized recommendations"
+        }
+    },
+    "flight_detail": {
+        "breadcrumbs": {
+            "home": "Home",
+            "flights": "Flights"
+        },
+        "labels": {
+            "licensed": "Licensed Operator",
+            "free_cancellation": "Free Cancellation",
+            "best_price": "Best Price Guarantee",
+            "reviews": "Reviews",
+            "overview": "Overview",
+            "included": "What's Included",
+            "excluded": "Not Included",
+            "program": "Flight Program",
+            "suggestion": "FLIGHT suggestion",
+            "book_now": "Book Now",
+            "price": "Price",
+            "from": "From",
+            "flight_in": "Flight in",
+            "weather_policy": "Weather Policy",
+            "popular": "Popular",
+            "people": "People",
+            "min_age": "Min Age",
+            "key_features": "Key Features",
+            "view_itinerary": "View Itinerary",
+            "guest_reviews": "Guest Reviews",
+            "no_reviews": "No reviews for this flight yet. Be the first!"
+        },
+        "difficulty": {
+            "easy": "Easy",
+            "moderate": "Moderate",
+            "challenging": "Challenging"
+        },
+        "tags": {
+            "private": "PRIVATE",
+            "royal": "ROYAL",
+            "classic": "CLASSIC"
+        }
+    },
+    "seo_section": {
+        "title": "Discover Marrakech by Air",
+        "content": "Experience a premium hot air balloon Marrakech flight with Sky Experience. Our private sunrise flights offer breathtaking panoramic views over the Palm Grove and the Atlas Mountains. Whether you are looking for a romantic adventure or a luxury service, we provide the safest and most unforgettable Marrakech by air experience. Book your hot air balloon Morocco ride today and create memories that will last a lifetime.",
+        "occasions_title": "Perfect for every occasion",
+        "occasions": [
+            "Marriage Proposal",
+            "Unforgettable Birthday",
+            "Family Adventure",
+            "Corporate Event"
+        ]
+    },
+    "footer": {
+        "description": "The most authentic hot air balloon experience in Marrakech.",
+        "quick_links": "Quick Links",
+        "contact_us": "Contact Us",
+        "follow_us": "Follow Us",
+        "rights": "All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "social_desc": "Stay updated with our latest offers and sky adventures.",
+        "nav": {
+            "home": "Home",
+            "flights": "Our Flights",
+            "about": "About Us",
+            "book_now": "Book Now"
+        },
+        "labels": {
+            "address": "Address",
+            "email": "Email",
+            "phone": "Phone"
+        },
+        "address_value": "3rd Floor Office No. 16, Corner Bd Moulay Rachid, Marrakech 40000",
+        "email_value": "skyexperiencemarrakech@gmail.com",
+        "phone_value": "+212 751 622 180"
+    },
+    "booking": {
+        "title": "Book Your Adventure",
+        "subtitle": "Choose from our exclusive offers and get ready for takeoff.",
+        "loading": "Loading flights...",
+        "error": "Unable to load flights. Please check if the backend server is running.",
+        "no_flights": "No flights available at the moment.",
+        "currency": "MAD",
+        "book_button": "Book",
+        "classic": "Classic",
+        "rating": "4.9",
+        "experience": "Enjoy an unforgettable experience with this flight. Premium service and safety guaranteed.",
+        "dates_travelers": "Dates & Travelers",
+        "choose_date": "Choose a date",
+        "travelers_count": "Number of travelers",
+        "adults": "Adults",
+        "age_info": "Age 12+",
+        "continue": "Continue",
+        "your_details": "Your Details",
+        "full_name": "Full Name",
+        "email": "Email",
+        "phone": "Phone (with code)",
+        "pickup": "Pickup Location (Hotel/Riad)",
+        "back": "Back",
+        "verify": "Verify",
+        "summary": "Summary",
+        "date": "Date",
+        "travelers": "Travelers",
+        "meeting_point": "Meeting Point",
+        "total_pay": "Total to pay",
+        "confirm": "Confirm reservation",
+        "processing": "Processing...",
+        "success_title": "Reservation Confirmed!",
+        "success_msg": "Thank you {name}. Your flight has been successfully reserved. A confirmation email has been sent to {email}.",
+        "return_home": "Return to Home",
+        "reservation_summary": "Your Reservation",
+        "flight": "Flight",
+        "unit_price": "Unit price",
+        "total": "Total",
+        "cancellation_policy": "Free cancellation up to 48h before the flight. Payment on site available."
+    },
+    "about_section": {
+        "subtitle": "Learn more about us",
+        "title": "SKY EXPERIENCE",
+        "title_suffix": "Hot Air Balloon Marrakech",
+        "content_1": "SKY EXPERIENCE is more than just a hot air balloon agency in Marrakech. It is a promise of escape. We turn your dream of flying into reality with absolute safety and premium service. Our sunrise flights offer a unique perspective on the Agafay Desert, the Palm Grove, and the majestic Atlas Mountains.",
+        "content_2": "Composed of certified pilots and enthusiasts, our team has decades of experience in civil aviation. We are recognized as one of the best balloon flight specialists in Morocco, combining tradition, modernity, and strict adherence to international safety standards. Each flight is a celebration of the Moroccan sky.",
+        "content_3": "Thanks to rigorous organization, modern equipment, and qualified supervision, SKY EXPERIENCE offers its passengers all the guarantees necessary to live an exceptional aerial adventure. Whether for a classic, private, VIP flight, a marriage proposal in a hot air balloon, or a birthday, each experience is tailored to create unique memories in the skies of Marrakech.",
+        "cta": "Discover Our Story"
+    },
+    "about_adventures": {
+        "title": "Experience a unique hot air balloon adventure",
+        "subtitle": "Sky Experience Adventures",
+        "list": [
+            "Soar over **Marrakech** and its breathtaking landscapes.",
+            "Enjoy **unforgettable views** of the Atlas Mountains and the desert.",
+            "Every detail has been carefully thought out for your comfort."
+        ]
+    },
+    "about_safety": {
+        "title": "Safety and comfort: our priorities",
+        "subtitle": "Safety first",
+        "list": [
+            "At Sky Experience, **safety** is our absolute priority.",
+            "Our **certified pilots** will accompany you throughout the adventure.",
+            "Our balloons are perfectly maintained, ensuring both safety and comfort."
+        ]
+    },
+    "about_tailored": {
+        "title": "A flight adapted to your expectations",
+        "list": [
+            "Whether you choose a **classic** or **private flight**, each experience is carefully planned to offer you a panoramic view of Marrakech.",
+            "Every moment spent in the air invites you to relax and fully appreciate the spectacular beauty of Morocco."
+        ]
+    },
+    "about_relax": {
+        "title": "A moment of relaxation and wonder",
+        "content_1": "A hot air balloon flight is a rare and peaceful experience, ideal for relaxing and marveling.",
+        "content_2": "Board a spacious and comfortable hot air balloon and let yourself be carried by the gentle breeze.",
+        "content_3": "Experience the serenity of flight while admiring the ever-changing landscapes beneath your eyes."
+    },
+    "about_landscape": {
+        "title": "A journey through Moroccan landscapes",
+        "content": "Let yourself be captivated by the beauty of Moroccan landscapes. From the air, you will enjoy unparalleled views of the vast palm groves of Marrakech, the **Atlas Mountains**, and the desert dunes. The sunrise offers spectacular colors, ideal for capturing unforgettable photos."
+    },
+    "about_commitment": {
+        "title": "Our commitments: a worry-free experience",
+        "content": "From booking to landing, we have taken care of everything. We handle all logistics: VIP transport, warm welcome, safety instructions, and personalized souvenirs. All you have to do is enjoy the experience."
+    },
+    "why_choose": {
+        "subtitle": "Brilliant Reasons",
+        "title": "Why Choose Us",
+        "pricing": {
+            "title": "Competitive Pricing",
+            "desc": "Adventure doesn't have to break the bank"
+        },
+        "coverage": {
+            "title": "Worldwide Coverage",
+            "desc": "Wherever you dream of flying, we'll take you there"
+        },
+        "booking": {
+            "title": "Fast Booking",
+            "desc": "Book your flight in minutes and get ready to soar."
+        },
+        "guides": {
+            "title": "Guided Tours",
+            "desc": "Our expert pilots guide you safely through the skies."
+        }
+    },
+    "panoramic": {
+        "title": "Panoramic Views",
+        "subtitle": "Marrakech from Above",
+        "desc": "Soar over the Red City and beyond in our safe and comfortable hot-air balloons. Each flight is a new masterpiece painted by the sky."
+    },
+    "testimonials": {
+        "title": "Client's Testimonials",
+        "subtitle": "Providing The Best Services For Our Customers",
+        "items": [
+            {
+                "name": "Sarah J.",
+                "date": "Oct 2023",
+                "rating": 5,
+                "text": "An absolute must-do in Marrakech! The sunrise views were breathtaking, and the pilot made us feel so safe and entertained. A magical experience from start to finish.",
+                "bgColor": "bg-purple-500"
+            },
+            {
+                "name": "Ahmed K.",
+                "date": "Nov 2023",
+                "rating": 5,
+                "text": "Superbe organisation. Le transfert était à l'heure, le petit déjeuner délicieux et le vol... juste incroyable. Merci à toute l'équipe Sky Experience.",
+                "bgColor": "bg-blue-500"
+            },
+            {
+                "name": "Emily & Tom",
+                "date": "Dec 2023",
+                "rating": 5,
+                "text": "We booked a private flight for our anniversary and it was perfection. Romantic, peaceful, and stunningly beautiful. Worth every penny.",
+                "bgColor": "bg-pink-500"
+            }
+        ],
+        "view_more": "View more"
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Find answers to the most common questions to prepare for your flight with peace of mind.",
+        "items": [
+            {
+                "id": "1",
+                "number": "01",
+                "question": "What time does the hot air balloon take off? When do we return?",
+                "answer": "All flights take off at sunrise to guarantee magical lighting. Pickup in Marrakech is generally between 4:00 AM and 5:00 AM in summer and between 5:00 AM and 6:00 AM in winter. You will be back at your hotel between 9:15 AM and 10:15 AM."
+            },
+            {
+                "id": "2",
+                "number": "02",
+                "question": "Where does the hot air balloon take off?",
+                "answer": "Our launch sites are located about 30 to 45 minutes from the center of Marrakech, offering breathtaking views of the Palm Grove and the Atlas Mountains. We provide round-trip transfer from your hotel or riad."
+            },
+            {
+                "id": "3",
+                "number": "03",
+                "question": "How long does the full experience last?",
+                "answer": "The adventure lasts about 4 hours in total. This includes transfer, balloon preparation, the flight (45 to 60 min), a traditional Berber breakfast in a tent, and the return trip."
+            },
+            {
+                "id": "4",
+                "number": "04",
+                "question": "Do you offer group rates?",
+                "answer": "Absolutely! We offer preferential rates for groups of 6 people or more. Contact us via WhatsApp to get a personalized quote."
+            },
+            {
+                "id": "5",
+                "number": "05",
+                "question": "What happens in case of bad weather?",
+                "answer": "Your safety is our top priority. If the flight is cancelled due to weather conditions, we offer to reschedule the experience for the next day or receive a full refund."
+            },
+            {
+                "id": "6",
+                "number": "06",
+                "question": "Can I customize the flight for a special event?",
+                "answer": "Yes! Whether it's a marriage proposal, a birthday, or a corporate event, we offer private custom flights with exclusive options (flowers, personalized banners, cake) to make this moment unforgettable."
+            },
+            {
+                "id": "7",
+                "number": "07",
+                "question": "Can children fly?",
+                "answer": "Yes, children are welcome from 4 years old. Children aged 4 to 11 benefit from a special reduced rate."
+            },
+            {
+                "id": "8",
+                "number": "08",
+                "question": "How many passengers are in the basket?",
+                "answer": "For our classic shared flights, the baskets accommodate between 12 and 16 people with separate compartments for your comfort. If you prefer more privacy, our Private and VIP Packs guarantee a basket exclusively reserved for you."
+            }
+        ]
+    },
+    "blog": {
+        "title": "Latest News",
+        "subtitle": "Insights, tips, and stories from the sky",
+        "view_all": "View More Articles",
+        "read_more": "Read Article"
+    },
+    "contact_section": {
+        "label": "Get in Touch",
+        "title": "Contact Sky Experience",
+        "subtitle": "Have a question or ready to book? We respond within a few hours. Our team is here to make your hot air balloon experience in Marrakech unforgettable.",
+        "card_phone_title": "Phone & WhatsApp",
+        "card_email_title": "Email",
+        "card_location_title": "Location",
+        "card_location_value": "3rd Floor Office N° 16, Angle Bd Moulay Rachid, Marrakech",
+        "card_location_link": "Get directions",
+        "card_hours_title": "Opening Hours",
+        "card_hours_weekdays": "Mon – Sat: 6:00 AM – 8:00 PM",
+        "card_hours_sunday": "Sunday: 6:00 AM – 6:00 PM",
+        "cta_box_title": "Prefer to talk directly?",
+        "cta_box_subtitle": "Our team responds instantly on WhatsApp",
+        "full_contact_link": "Full Contact Page",
+        "form_title": "Send Us a Message",
+        "form_subtitle": "We will get back to you within 2–4 hours",
+        "response_time": "Average response time: 2–4 hours",
+        "field_name": "Full Name",
+        "field_email": "Email Address",
+        "field_message": "Message",
+        "placeholder_name": "Your full name",
+        "placeholder_email": "your@email.com",
+        "placeholder_message": "Tell us your preferred dates, group size or any question...",
+        "btn_send": "Send Message",
+        "btn_sending": "Sending...",
+        "success_msg": "Message sent! We will reply within 24 hours.",
+        "form_note": "For more options, visit our"
+    },
+    "contact_page": {
+        "header_title": "Get in Touch",
+        "header_subtitle": "Contact Us",
+        "card_contact_title": "Contact Information",
+        "card_social_title": "Stay Connected",
+        "card_hours_title": "Opening Hours",
+        "label_address": "Address",
+        "address_line1": "3rd Floor Office N° 16, Angle Bd Moulay Rachid",
+        "address_line2": "Marrakech 40000, Morocco",
+        "hours_weekdays": "Monday – Friday",
+        "hours_saturday": "Saturday",
+        "hours_sunday": "Sunday",
+        "hours_value_weekdays": "6:00 AM – 8:00 PM",
+        "hours_value_saturday": "6:00 AM – 8:00 PM",
+        "hours_value_sunday": "6:00 AM – 6:00 PM",
+        "map_title": "Our Location",
+        "map_subtitle": "Our office is located in the heart of Marrakech, Angle Bd Moulay Rachid. Visit us for any information.",
+        "get_directions": "Get Directions",
+        "form_title": "Have a Question?",
+        "form_subtitle": "Fill in the form below and we will get back to you as soon as possible.",
+        "response_time": "Average response time: 2–4 hours",
+        "field_name": "Full Name",
+        "field_email": "Email Address",
+        "field_phone": "Phone Number",
+        "field_subject": "Subject",
+        "field_message": "Message",
+        "optional": "optional",
+        "placeholder_name": "Full name",
+        "placeholder_email": "contact@example.com",
+        "placeholder_phone": "+212 6XX-XXXXXX",
+        "placeholder_subject": "What is this about?",
+        "placeholder_message": "Tell us your preferred dates, group size or any question...",
+        "btn_send": "Send Message",
+        "btn_sending": "Sending...",
+        "btn_clear": "Clear Form",
+        "success_title": "Message sent successfully!",
+        "success_msg": "We will reply within 24 hours.",
+        "error_title": "Error sending message",
+        "error_retry": "Please try again or contact us directly.",
+        "error_name": "Name is required",
+        "error_email_required": "Email is required",
+        "error_email_invalid": "Invalid email",
+        "error_subject": "Subject is required",
+        "error_message": "Message is required",
+        "error_privacy": "You must accept the privacy policy",
+        "privacy_accept": "I accept the",
+        "privacy_link": "privacy policy",
+        "or_contact_directly": "Or contact us directly:",
+        "email_link": "Send us an email"
+    },
+    "flight_card": {
+        "one_day": "1 Day",
+        "min_2": "Min 2",
+        "max": "Max",
+        "explore": "Explore"
+    },
+    "search_bar": {
+        "search_title": "Search Your Flight",
+        "easy_booking": "Easy Booking",
+        "destinations": "Destinations",
+        "where_going": "Where are you going?",
+        "all_destinations": "All Destinations",
+        "no_destinations": "No destinations available",
+        "activity": "Activity",
+        "all_activity": "All Activity",
+        "select_destination_first": "Select destination first",
+        "activities_in": "Activities in",
+        "no_activities_destination": "No activities in",
+        "when": "When",
+        "date_from": "Select date",
+        "guests": "Guests",
+        "adults": "Adults",
+        "children": "Children",
+        "apply": "Apply",
+        "search": "Search"
+    },
+    "booking_calendar": {
+        "check_availability": "Check Availability",
+        "contact": "Contact",
+        "weekdays": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+        ]
+    }
+}
